@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2024-02-01-paper-title-number-1
 date: 2024-02-01
 venue: 'Preventive Medicine'
-citation: 'Zheng, X., Yang, M., Li, W., & Lin, H. C. (2024). The mediating roles of mental health problems and racial differences in the linkage between social media use and E-cigarette use among American youth. Preventive Medicine, 179, 107842.'
+link: [link](https://www.sciencedirect.com/science/article/abs/pii/S0091743523004280)
 ---
 Abstract
 
