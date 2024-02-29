@@ -2,9 +2,9 @@
 title: "
 Stealth vaping among college students on four geographically distinct tobacco-free college campuses: prevalence and practices"
 collection: publications
-permalink: /publication/2022-03-01-paper-title-number-6
+permalink: /publication/2022-02-01-paper-title-number-6
 excerpt: ' '
-date: 2022-03-01
+date: 2022-02-01
 venue: 'Nicotine and Tobacco Research'
 paperurl: https://academic.oup.com/ntr/article-abstract/24/3/342/6326659
 ---
