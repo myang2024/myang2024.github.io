@@ -5,7 +5,7 @@ permalink: /publication/2023-01-01-paper-title-number-2
 excerpt: ' '
 date: 2023-01-01
 venue: 'Addictive Behaviors'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0306460322002568)'
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0306460322002568
 ---
 ## Abstract
 
