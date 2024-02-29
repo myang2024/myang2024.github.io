@@ -76,11 +76,7 @@ analytics:
 author:
   name             : "Meng Yang"
   avatar           : "profile.png"
-  bio              : "Tenure Track Assistant Professor at Mississippi State University"
-  location         : "Office: X"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=mnemDVQAAAAJ&view_op=list_works&authuser=2&gmla=ABEO0YqdzNtQ-T2DdatUMbJjHITAKkLMm8oDHMx_LOQhsF-jUzexvBzUoDTGiWubmhfxV37tIUbMB_CTiWUX1i1b"
-  email            : "XXX at XXX"
+
 
 
 
@@ -195,22 +191,8 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
