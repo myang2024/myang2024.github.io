@@ -3,6 +3,7 @@ title: "
 The mediating roles of mental health problems and racial differences in the linkage between social media use and E-cigarette use among American youth"
 collection: publications
 permalink: /publication/2024-02-01-paper-title-number-1
+excerpt: ' '
 date: 2024-02-01
 venue: 'Preventive Medicine'
 paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0091743523004280
@@ -20,3 +21,6 @@ Youth with high social media use frequency were more likely to use e-cigarettes 
 
 ### Conclusions
 Mental health problems following social media use served as a risk factor for e-cigarette use among youth. Interventions aiming to improve youth's mental health could in turn temper e-cigarette use among youth social media users, and implementing tailored interventions in response to racial differences is warranted.
+
+
+Recommended citation: Zheng, X., Yang, M., Li, W., & Lin, H. C. (2024). The mediating roles of mental health problems and racial differences in the linkage between social media use and E-cigarette use among American youth. *Preventive Medicine, 179,* 107842.
