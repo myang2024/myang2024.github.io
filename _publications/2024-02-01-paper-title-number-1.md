@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2024-02-01-paper-title-number-1
 date: 2024-02-01
 venue: 'Preventive Medicine'
-link: [link](https://www.sciencedirect.com/science/article/abs/pii/S0091743523004280)
+paperurl: https://www.sciencedirect.com/science/article/abs/pii/S0091743523004280
 ---
 Abstract
 
