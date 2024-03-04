@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Download my cv [here](/Meng Yang_CV_updated)
+Download my cv [here](/files/Meng Yang_CV_updated)
 
