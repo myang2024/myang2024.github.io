@@ -4,7 +4,7 @@ collection: teaching
 type: "Doctoral level course"
 permalink: /teaching/IU-teaching-2
 venue: "Indiana University Bloomington, Department of Applied Health Science"
-date: Aug. 2021 - Dec. 2023
+date: August, 2021 - December 2023
 ---
 
 
