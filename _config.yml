@@ -76,7 +76,9 @@ analytics:
 author:
   name             : "Meng Yang"
   avatar           : "profile.png"
-  location         : "107 Herzer Building<br /> Mississippi State"
+  location         : "<address>
+ XXX Herzer Bldg<br /> Mississippi State, MS 39762<br /> United States
+  </address>"
   email            : " [at]msstate.edu"
 
 
