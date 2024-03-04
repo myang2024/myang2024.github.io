@@ -9,5 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my cv [here](<embed src="{{ site.baseurl }}/files/Meng Yang_CV_updated.pdf" width="600" height="700" type='application/pdf'>)
+Download my cv [here](/files/Meng Yang_CV_updated.pdf")
+
+<embed src="{{ site.baseurl }}/files/Meng Yang_CV_updated.pdf" width="600" height="700" type='application/pdf'> 
 
