@@ -12,4 +12,4 @@ I am an Assistant Professor in the Department of Food Science, Nutrition and Hea
  
 My research interests are around promoting healthy behaviors, particularly focusing on understanding and preventing tobacco use behavior. My work employed advanced quantitative methods such as structural equation modeling and quasi-experimental design to explore and understand vaping behaviors among youth and young adults. I have also contributed to several other areas in tobacco prevention, such as parental effects on children’s vaping behavior, media influence, and concurrent use of tobacco and other substances.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uj3Rz2b5tdnWZJfUEQ4EtP3C77l2QHri-ZiEk8Ezi-I&cl=ffffff&w=a"></script>
+
