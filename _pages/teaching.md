@@ -2,7 +2,12 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-
+## Mississippi State University
+- FNH 8563: Principles of Epidemiology and Health Science Research (Fall 2024)
+    - Course formats: online asynchronous and in-person
+<br/><br/>
+<br/><br/>
+<br/><br/>     
 ## Indiana University Bloomington
 - SPH-H 263: Personal Health (Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023)
     - Course formats: online, hybrid, and in-person (synchronous & asynchronous)
